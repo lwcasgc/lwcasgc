@@ -1,8 +1,5 @@
 <img src="https://media.discordapp.net/attachments/848976644693950495/1196588844867391649/Planet_Fusion_2.png?ex=6724b3f4&is=67236274&hm=1570ccdcd3c4e87212f75852f093f0deff60fa8e73f1f33523ad396ac702d9fe&=&format=webp&quality=lossless&width=468&height=468" min-width="320px" max-width="320px" width="320px" align="right">
 
-<p align="left"> 
-  Hello. I am Lwcas.
-</p>
 
 ### Projects
 
