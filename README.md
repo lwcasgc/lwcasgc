@@ -8,7 +8,7 @@
 
 <img align="left" height="89px" width="150px" alt="Warpnet" src="https://media.discordapp.net/attachments/1017614892741701632/1261096896781488210/logo_Retrobution_FULL_presents.png?ex=6724b6c2&is=67236542&hm=286906ce1c0fbf8ad2417d9e9a3fd07dd80e095f22cd984172133f22afead290&=&format=webp&quality=lossless"/>
 
-**SFX Artist & Discord Bot Programmer** \
+**SFX & Programming** \
 [**Retrobution**](https://fusionfall.fandom.com/wiki/Portal:Retrobution) • Hobbyist \
 Tools: `Python`, `FL Studio`, `Blender`, `Photoshop`
 <br/>
